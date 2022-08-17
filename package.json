@@ -1,0 +1,19 @@
+{
+  "name": "mp3-compresser",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "compress.js",
+  "scripts": {
+    "start": "zx compress.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "zx": "^7.0.8"
+  },
+  "dependencies": {
+    "fast-folder-size": "^1.7.0",
+    "pretty-bytes": "^6.0.0"
+  }
+}
