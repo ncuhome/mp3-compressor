@@ -5,7 +5,7 @@
 ### Clone
 
 ```bash
-git clone https://github.com/ncuhome/mp3-compresser
+git clone https://github.com/ncuhome/mp3-compressor
 ```
 
 ### Installation
