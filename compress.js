@@ -24,7 +24,10 @@ for (const mp3 of mp3s) {
 
 await Promise.all(all)
 
+console.log()
+
 const fromSize = prettyBytes(await fastFolderSizeAsync('./input'))
 const toSize = prettyBytes(await fastFolderSizeAsync('./output'))
 
 console.log(`${fromSize} -> ${toSize}`)
+console.log(`Compressed done, check in  ./output/`)
