@@ -2,6 +2,11 @@
 
 ## Guide
 
+### Clone
+
+```bash
+git clone https://github.com/ncuhome/mp3-compresser
+```
 
 ### Installation
 
